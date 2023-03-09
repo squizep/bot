@@ -1,7 +1,6 @@
 USER = [1817004105, 512060643]
 
-TOKEN = '6163180214:AAGnZJ2ZWhm87-0pWDMssxA7QDRDgTQyMmA'
-
+TOKEN = 
         # match message.text:
         #   case 'Н, Г':
         #     bot.send_message(message.chat.id, 'ты лох')
